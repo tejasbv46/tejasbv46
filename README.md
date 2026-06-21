@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Tejas!<br>💻 A passionate computer science engineering student from Bangalore, India.  <br>🚀 Interested in Java full stack development, Python, web development, and Android app development.<br>🌱 Currently improving my DSA, system design, and backend development skills while building real-world projects.  <br>⚡ I enjoy solving coding problems, exploring new technologies, going to the gym
-CODE SLEEP REPEAT. .
+CODE SLEEP REPEAT. 
 
 
 # 💻 Tech Stack:
