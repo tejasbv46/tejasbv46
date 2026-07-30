@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Tejas <br><br>I'm a passionate Software Developer and Computer Science graduate from India with a strong interest in Java Backend Development, Spring Boot, Android Development, and Data Structures & Algorithms.💡 Currently focusing on:<br>- ☕ Java & Spring Boot<br>- 📱 Android Development (Jetpack Compose)<br>- 🗄️ SQL & Database Design<br>- 🧩 Data Structures & Algorithms<br>- 🌐 REST APIs & Backend Development<br>- 🌍 Open Source Contributions<br><br>I love learning new technologies, building impactful projects, and collaborating with developers to create useful software.
+💡 Currently focusing on:<br>- ☕ Java & Spring Boot<br>- 📱 Android Development (Jetpack Compose)<br>- 🗄️ SQL & Database Design<br>- 🧩 Data Structures & Algorithms<br>- 🌐 REST APIs & Backend Development<br>- 🌍 Open Source Contributions<br><br>I love learning new technologies, building impactful projects, and collaborating with developers to create useful software.
 
 
 # 💻 Tech Stack:
