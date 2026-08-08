@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 💡 Currently focusing on:<br>- ☕ Java & Spring Boot<br>- 📱 Android Development (Jetpack Compose)<br>- 🗄️ SQL & Database Design<br>- 🧩 Data Structures & Algorithms<br>- 🌐 REST APIs & Backend Development<br>- 🌍 Open Source Contributions<br><br>I love learning new technologies, building impactful projects, and collaborating with developers to create useful software.
 
 
